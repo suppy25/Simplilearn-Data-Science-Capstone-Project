@@ -13,7 +13,7 @@ Variables Description Pregnancies Number of times pregnant Glucose Plasma glucos
 
 # Week 1 Data Exploration:
 
-# 1.Perform descriptive analysis. Understand the variables and their corresponding values. On the columns below, a value of zero does not make sense and thus indicates missing value:
+1.Perform descriptive analysis. Understand the variables and their corresponding values. On the columns below, a value of zero does not make sense and thus indicates missing value:
 
 • Glucose
 
@@ -25,9 +25,9 @@ Variables Description Pregnancies Number of times pregnant Glucose Plasma glucos
 
 • BMI
 
-# 2.Visually explore these variables using histograms. Treat the missing values accordingly.
+2.Visually explore these variables using histograms. Treat the missing values accordingly.
 
-# 3.There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables.
+3.There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables.
 
 # Project Task: Week 2 Data Exploration:
 
